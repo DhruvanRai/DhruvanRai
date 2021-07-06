@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @DhruvanRai
-- 👀 I’m interested in Coding, Arts, Learning, Singing.
-- 🌱 I’m currently learning Everything.
-- 💞️ I’m looking to collaborate on (this thing is coming soon...)
+- 👀 I’m interested in **Coding**, **Singing**, **Football**.
+- 🌱 I’m currently learning Web Development.
+- 💞️ I’m looking to collaborate on Web Development.
 - 📫 How to reach me (by road)
 
 <!---
