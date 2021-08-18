@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @DhruvanRai
 - 👀 I’m interested in **Coding**, **Singing**, **Football**, **Mathematics**.
-- 🌱 I’m currently learning Web Development.
-- 💞️ I’m looking to collaborate on Web Development.
-- 📫 How to reach me (by road)
+- 🌱 I’m currently mastering Python.
+- 💞️ I’m looking to collaborate on Python and Web Development.
+<!-- - 📫 How to reach me (by road) -->
 
 <!---
 DhruvanRai/DhruvanRai is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
